@@ -20,7 +20,7 @@ public class AulaGit2 {
         System.out.println("AulasssGitsss");
         System.out.println("Teste Nada");
         System.out.println("Eu queria");
-        System.out.println("Teste Mesmo");
+        
         System.out.println("Agora ou nunca");
         
     }
