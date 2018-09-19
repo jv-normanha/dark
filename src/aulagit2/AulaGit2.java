@@ -18,7 +18,8 @@ public class AulaGit2 {
         // TODO code application logic here
         System.out.println("Hello World!");
         System.out.println("AulasssGitsss");
-        System.out.println("Teste");
+        System.out.println("Teste Nada");
+        System.out.println("Eu queria");
     }
     
 }
