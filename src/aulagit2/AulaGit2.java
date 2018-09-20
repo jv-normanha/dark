@@ -22,7 +22,7 @@ public class AulaGit2 {
         
         System.out.println("NORMANHA PPK");
         System.out.println("Teste Mesmo");
-        System.out.println("Agora + nunca");
+        System.out.println("QUERO IR EMBORA");
         
         
     }
