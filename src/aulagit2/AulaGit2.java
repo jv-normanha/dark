@@ -19,12 +19,11 @@ public class AulaGit2 {
         System.out.println("Hello World!");
         System.out.println("AulasssGitsss");
         
-        System.out.println("Eu queria");
+        System.out.println("NORMANHA PPK");
         System.out.println("Teste Mesmo");
         System.out.println("Agora + nunca");
         
-        quem matou odete roitman;
-        foi a leila;
+        
     }
     
 }
